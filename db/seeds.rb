@@ -20,4 +20,5 @@ Ingredient.create(name: "sugar")
 Ingredient.create(name: "ice")
 Ingredient.create(name: "mint leaves")
 Ingredient.create(name: "cola")
+Ingredient.create(name: "tonic water")
 
