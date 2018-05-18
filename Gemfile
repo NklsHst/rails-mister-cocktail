@@ -59,3 +59,11 @@ gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+
+# Frontend Gems
+gem 'bootstrap-sass'
+gem 'font-awesome-sass', '~> 5.0.9'
+gem 'simple_form'
+gem 'autoprefixer-rails'
+gem 'jquery-rails'
